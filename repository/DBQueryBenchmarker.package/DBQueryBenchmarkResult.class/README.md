@@ -1,0 +1,1 @@
+I am set of DBQueryRunResult created in the context of the benchmark of a query.

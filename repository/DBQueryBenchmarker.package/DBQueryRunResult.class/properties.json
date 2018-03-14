@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "JulienDelplanque 3/14/2018 09:55",
+	"super" : "Object",
+	"category" : "DBQueryBenchmarker",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"timeToRun"
+	],
+	"name" : "DBQueryRunResult",
+	"type" : "normal"
+}
